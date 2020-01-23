@@ -1,0 +1,10 @@
+div {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-left-color: rebeccapurple;
+    border-radius: 10%;
+    background-color: yellowgreen;
+}
